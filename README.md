@@ -20,3 +20,4 @@ You will need the following to run this project:
 * Clone the Repository from Github
 * Open the project folder using Android Studio IDE
 
+> The final apk can be downloaded here : <[download](https://drive.google.com/file/d/0B0H4g_5zWRh_UjZuUnVadzNZN2s/view?usp=sharing>
